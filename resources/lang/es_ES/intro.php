@@ -95,7 +95,7 @@ return [
     'piggy-banks_create_date'                                 => 'Puede establecer una fecha objetivo o una fecha limite para su hucha.',
 
     // show piggy
-    'piggy-banks_show_piggyChart'                             => 'Este informe le mostrara la historia de esta alcancía.',
+    'piggy-banks_show_piggyChart'                             => 'Este informe le mostrara la historia de esta hucha.',
     'piggy-banks_show_piggyDetails'                           => 'Algunos detalles sobre tu hucha',
     'piggy-banks_show_piggyEvents'                            => 'Cualquier adición o eliminación también se listan aquí.',
 

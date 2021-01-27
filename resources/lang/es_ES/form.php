@@ -159,7 +159,7 @@ return [
     'also_delete_connections'     => 'La única transacción vinculada con este tipo de enlace perderá esta conexión. | Todas las :count transacciones vinculadas con este tipo de enlace perderán su conexión.',
     'also_delete_rules'           => 'La única regla conectada a este grupo de reglas también se eliminará. | Todas las :count reglas conectadas a este grupo de reglas también se eliminarán.',
     'also_delete_piggyBanks'      => 'La hucha conectada a esta cuenta también se eliminará.|Las :count huchas conectadas a esta cuenta también se eliminarán.',
-    'not_delete_piggy_banks'      => 'La alcancía conectada a este grupo no será eliminada.|Las :count alcancías conectados a este grupo no serán eliminados.',
+    'not_delete_piggy_banks'      => 'La hucha conectada a este grupo no será eliminada.|Las :count huchas conectados a este grupo no serán eliminados.',
     'bill_keep_transactions'      => 'La transacción conectada a esta factura no será eliminada.|Las :count transacciones conectadas a esta factura serán eliminadas.',
     'budget_keep_transactions'    => 'La transacción conectada a este presupuesto no se eliminará.|Las :count transacciones conectadas a este presupuesto no serán eliminadas.',
     'category_keep_transactions'  => 'La transacción conectada a esta categoría no se eliminará.|Las :count transacciones conectadas a esta categoría no serán eliminadas.',
